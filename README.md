@@ -17,3 +17,8 @@
 - Monitoring
 - CI/CD
 - Documentation
+
+## Current Progress
+- [x] Day 1: Local Git setup
+- [x] Day 2: SSH keys and GitHub remote
+- [ ] Day 3: Branching and Pull Requests
